@@ -1,0 +1,1 @@
+<center>Merhaba , Hoşgeldiniz Laravel CMS.</center>
